@@ -36,13 +36,13 @@ INSERT INTO cliente (NOME,AREA,IDADE,CIDADE) VALUES ('Laura Ferrari','Desenvolvi
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=blackkseaw&show_icons=true&theme=radical&line_height=27" alt="**LAURA** github stats"/>
 </a>
 
-[website]: https://sites.google.com/estudante.sc.senai.br/lauraferrari-portfolio/p%C3%A1gina-inicial
-[email]: lauraferrari@floripa.com.br
-[linkedin]: https://www.linkedin.com/in/laura-ferrari-6a25b220b/
+[Portfólio]: https://sites.google.com/estudante.sc.senai.br/lauraferrari-portfolio/p%C3%A1gina-inicial
+[Email]: lauraferrari@floripa.com.br
+[Linkedin]: https://www.linkedin.com/in/laura-ferrari-6a25b220b/
 <br>
 
 ## **Onde me encontrar** 
 
-🏡 [website][website] **|**
-📫 [email][email] **|** 
-👔 [linkedin][linkedin]
+🏡 [Portfólio][Portfólio] **|**
+📫 [Email][Email] **|** 
+👔 [Linkedin][Linkedin]
