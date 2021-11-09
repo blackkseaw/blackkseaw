@@ -1,6 +1,7 @@
 ## 🚀 Acessando database sobre_blackkseaw
 
-```create database blackkseaw;
+```
+create database blackkseaw;
 use blackkseaw;
 
 CREATE TABLE USER (
