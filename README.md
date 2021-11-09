@@ -12,7 +12,8 @@ CREATE TABLE USER (
     PAIS VARCHAR(25)
 );
 
-INSERT INTO USER (NOME,AREA,IDADE,CIDADE) VALUES ('Laura Ferrari','Desenvolvimento de Sistemas',17,'Brasil');
+INSERT INTO USER (NOME,AREA,IDADE,CIDADE)
+VALUES ('Laura Ferrari','Desenvolvimento de Sistemas',17,'Brasil');
 
 ```
 
