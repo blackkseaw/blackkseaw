@@ -1,7 +1,7 @@
 ## 🚀 Acessando database sobre_blackkseaw
 
 ```create database blackkseaw;
-use facebook;
+use blackkseaw;
 
 CREATE TABLE USER (
     IDUSER INT PRIMARY KEY AUTO_INCREMENT,
