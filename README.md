@@ -27,7 +27,7 @@ VALUES ('Laura Ferrari','Desenvolvimento de Sistemas',17,'Brasil');
 <code><img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
 
 
-## 📊 **Coisinha do Github**
+## 📊 **Coisinhas do Github**
 
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackkseaw&theme=radical&hide_langs_below=1" />
