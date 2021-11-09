@@ -17,7 +17,7 @@ VALUES ('Laura Ferrari','Desenvolvimento de Sistemas',17,'Brasil');
 
 ```
 
-## **Linguagens e Ferramentas:**  
+## ☕ **Minha programação**  
 
 <code><img height="30" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
@@ -27,7 +27,7 @@ VALUES ('Laura Ferrari','Desenvolvimento de Sistemas',17,'Brasil');
 <code><img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
 
 
-## **GitHub Estatísticas**
+## 📊 **Coisinha do Github**
 
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackkseaw&theme=radical&hide_langs_below=1" />
@@ -42,7 +42,7 @@ VALUES ('Laura Ferrari','Desenvolvimento de Sistemas',17,'Brasil');
 [Linkedin]: https://www.linkedin.com/in/laura-ferrari-6a25b220b/
 <br>
 
-## **Onde me encontrar** 
+## 🎮 **Links** 
 
 🏡 [Portfólio][Portfólio] **|**
 📫 [Email][Email] **|** 
