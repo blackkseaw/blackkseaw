@@ -1,6 +1,6 @@
 [ENGLISH]: https://sites.google.com/estudante.sc.senai.br/lauraferrari-portfolio/p%C3%A1gina-inicial
 
-### <img src="https://cdn-icons-png.flaticon.com/512/786/786486.png" width="20px;"> Switch to [ENGLISH][ENGLISH]</img>
+### <img src="https://cdn-icons-png.flaticon.com/512/786/786486.png" width="20px;" align="center"> Switch to [ENGLISH][ENGLISH]</img>
 
 
 
