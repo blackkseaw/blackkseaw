@@ -51,5 +51,6 @@ VALUES ('Laura Ferrari','Desenvolvimento de Sistemas',17,'Brasil');
 📫 [Email][Email] **|** 
 👔 [Linkedin][Linkedin}
 
+
 ## 💻 **Projetos recentes**
 - <a href="https://github.com/blackkseaw/SA_Android"> Aplicativo para crianças com TEA </a> 
