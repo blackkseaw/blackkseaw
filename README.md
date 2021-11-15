@@ -47,3 +47,4 @@ VALUES ('Laura Ferrari','Desenvolvimento de Sistemas',17,'Brasil');
 🏡 [Portfólio][Portfólio] **|**
 📫 [Email][Email] **|** 
 👔 [Linkedin][Linkedin]
+[README-EN.md](https://github.com/blackkseaw/blackkseaw/files/7538917/README-EN.md)
