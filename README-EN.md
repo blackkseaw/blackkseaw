@@ -1,4 +1,4 @@
-## <img src="https://cdn-icons-png.flaticon.com/512/143/143345.png" width="20px;"/><a href="https://github.com/blackkseaw/blackkseaw/blob/main/README.md"> Switch to Portuguese </a> 
+## <img src="https://cdn.discordapp.com/attachments/494996013837320193/909802766027853844/switchorange.png" width="20px;"/><a href="https://github.com/blackkseaw/blackkseaw/blob/main/README.md"> Switch to Portuguese </a> 
 
 ## 🚀 **Accessing database blackkseaw**
 
