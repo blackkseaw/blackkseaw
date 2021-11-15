@@ -1,6 +1,9 @@
 [ENGLISH]: https://sites.google.com/estudante.sc.senai.br/lauraferrari-portfolio/p%C3%A1gina-inicial
 
-<img src="https://cdn-icons-png.flaticon.com/512/786/786486.png" width="40px;">Switch to [ENGLISH][ENGLISH]</img>
+<div align="center">
+    <img src="https://cdn-icons-png.flaticon.com/512/786/786486.png" width="20px;">Switch to [ENGLISH][ENGLISH]</img>
+</div>
+
 
 ## 🚀 **Acessando database blackkseaw**
 
@@ -53,6 +56,4 @@ VALUES ('Laura Ferrari','Desenvolvimento de Sistemas',17,'Brasil');
 👔 [Linkedin][Linkedin}
 
 
-<div align="center">
-    <a href="https://www.linkedin.com/in/rafael-camargo-39059717a/"> Click here to change to english </a> 🔗
-</div>
+
