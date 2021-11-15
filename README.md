@@ -1,8 +1,4 @@
-
-  ## <img src="https://cdn-icons-png.flaticon.com/512/786/786486.png" width="20px;"/><a href="https://github.com/blackkseaw/blackkseaw/blob/master/README-EN.md"> Switch to English </a> 
-
-
-
+## <img src="https://cdn-icons-png.flaticon.com/512/786/786486.png" width="20px;"/><a href="https://github.com/blackkseaw/blackkseaw/blob/main/README-EN.md"> Switch to English </a> 
 
 
 ## 🚀 **Acessando database blackkseaw**
