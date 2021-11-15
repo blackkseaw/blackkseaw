@@ -49,7 +49,7 @@ VALUES ('Laura Ferrari','Desenvolvimento de Sistemas',17,'Brasil');
 
 🏡 [Portfólio][Portfólio] **|**
 📫 [Email][Email] **|** 
-👔 [Linkedin][Linkedin}
+👔 [Linkedin][Linkedin]
 
 
 ## 💻 **Projetos recentes**
