@@ -1,4 +1,9 @@
-## 🚀 **Acessando database sobre_blackkseaw**
+[ENGLISH]: https://sites.google.com/estudante.sc.senai.br/lauraferrari-portfolio/p%C3%A1gina-inicial
+[ENGLISH][ENGLISH]
+
+<img src="https://cdn-icons-png.flaticon.com/512/786/786486.png">Switch to[ENGLISH][ENGLISH]</img>
+
+## 🚀 **Acessando database blackkseaw**
 
 ```
 create database blackkseaw;
@@ -46,5 +51,9 @@ VALUES ('Laura Ferrari','Desenvolvimento de Sistemas',17,'Brasil');
 
 🏡 [Portfólio][Portfólio] **|**
 📫 [Email][Email] **|** 
-👔 [Linkedin][Linkedin]
-[README-EN.md](https://github.com/blackkseaw/blackkseaw/files/7538917/README-EN.md)
+👔 [Linkedin][Linkedin}
+
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/rafael-camargo-39059717a/"> Click here to change to english </a> 🔗
+</div>
